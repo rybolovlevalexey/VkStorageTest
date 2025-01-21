@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea5fd1b-bff0-4d5d-8b73-a9e2d62ce550" name="Changes" comment="">
+    <list default="true" id="8ea5fd1b-bff0-4d5d-8b73-a9e2d62ce550" name="Changes" comment="feat: blktest.py ready to use (created functions for testing performance of block device)">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -102,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737451047600</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: blktest.py ready to use (created functions for testing performance of block device)">
+      <option name="closed" value="true" />
+      <created>1737479070084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737479070084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: blktest.py ready to use (created functions for testing performance of block device)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: blktest.py ready to use (created functions for testing performance of block device)" />
   </component>
 </project>
